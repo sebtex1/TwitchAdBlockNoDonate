@@ -13,6 +13,7 @@
     'use strict';
 
     function clickCrossBtn() {
+        //test
         var crossBtn = document.getElementById('cross_btn');
         if (crossBtn) {
             crossBtn.click(); // Clique sur l'élément s'il est trouvé
